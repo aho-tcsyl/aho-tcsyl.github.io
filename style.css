@@ -1,37 +1,16 @@
-.picture {
-    width: 50vw;
-    border-style: double;
-
+.theme{
+background-color: white;
+font-family: 'Varela', sans-serif;
+text-align: center;
 }
-
-.bullets {
-    background-color: lemonchiffon;
-    font-size: 33px;
-    font-family: cursive;
-    text-align: left;
+.home{
+margin-top: 10px;
 }
-
-.hobbies {
-    background-color: lavender;
-    font-size: 55px;
-    color: darkblue;
-    font-family: sans-serif;
-    text-align: center
+.homepagewords{
+text-align: center;
+margin-top: 100px;
 }
+.houseblowingup{
+margin-left: 0px
 
-.theme {
-    background-color: white;
-    text-align: center;
-    border-style: dashed;
-
-} 
-
-.title {
-    color: darkblue;
-    font-size: 100px;
-    background-color: lavender;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-style: double;
-    box-shadow: 5px 10px #7f76ff;
 }
